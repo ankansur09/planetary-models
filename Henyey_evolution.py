@@ -5,7 +5,7 @@
 #   (Henyey method-based)
 #
 #
-#   Authors: Ankan Sur, Rob Tejada
+#   Authors: Ankan Sur
 #   Supervisor: Prof. Adam Burrows
 #   Affiliation: Department of Astrophysical Sciences, Princeton University
 #   
